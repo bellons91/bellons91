@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Tip: F.I.R.S.T. acronym for better unit tests](https://www.code4it.dev/cleancodetips/f-i-r-s-t-unit-tests)
 - [5 tricks every C# dev should know about LINQPad](https://www.code4it.dev/blog/5-linqpad-tricks)
 - [C# Tip: SelectMany in LINQ](https://www.code4it.dev/csharptips/linq-selectmany)
 - [How to solve InvalidOperationException for constructors using HttpClientFactory in C#](https://www.code4it.dev/blog/solve-constructor-exception-with-httpclientfactory)
 - [Clean Code Tip: Avoid subtle duplication of code and logic](https://www.code4it.dev/cleancodetips/avoid-subtle-duplication)
-- [How to improve Serilog logging in .NET 6 by using Scopes](https://www.code4it.dev/blog/serilog-logging-scope)
 <!-- BLOG-POST-LIST:END -->
 
 
