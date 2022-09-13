@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: use Miniprofiler instead of Stopwatch to profile code performance](https://www.code4it.dev/csharptips/profile-code-with-miniprofiler)
 - [How to propagate HTTP Headers &lpar;and  Correlation IDs&rpar; using HttpClients in C#](https://www.code4it.dev/blog/propagate-httpheader-and-correlation-id)
 - [Clean Code Tip: F.I.R.S.T. acronym for better unit tests](https://www.code4it.dev/cleancodetips/f-i-r-s-t-unit-tests)
 - [5 tricks every C# dev should know about LINQPad](https://www.code4it.dev/blog/5-linqpad-tricks)
 - [C# Tip: SelectMany in LINQ](https://www.code4it.dev/csharptips/linq-selectmany)
-- [How to solve InvalidOperationException for constructors using HttpClientFactory in C#](https://www.code4it.dev/blog/solve-constructor-exception-with-httpclientfactory)
 <!-- BLOG-POST-LIST:END -->
 
 
