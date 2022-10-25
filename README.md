@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: use the @ prefix when a name is reserved](https://www.code4it.dev/csharptips/use-at-symbol-prefix)
 - [3 &lpar;and more&rpar; ways to set configuration values in .NET](https://www.code4it.dev/blog/how-to-set-configurations-values-dotnet)
 - [Clean Code Tip: DRY or not DRY?](https://www.code4it.dev/cleancodetips/dry-or-not-dry)
 - [The 2 secret endpoints I create in my .NET APIs](https://www.code4it.dev/blog/my-2-secret-endpoints)
 - [Clean Code Tip: throw exceptions instead of returning null when there is no fallback](https://www.code4it.dev/cleancodetips/exceptions-instead-of-null)
-- [How to log Correlation IDs in .NET APIs with Serilog](https://www.code4it.dev/blog/serilog-correlation-id)
 <!-- BLOG-POST-LIST:END -->
 
 
