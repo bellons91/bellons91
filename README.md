@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Clean Code Tip: Methods should have a coherent level of abstraction](https://www.code4it.dev/cleancodetips/coherent-levels-of-abstraction)
 - [How to deploy .NET APIs on Azure using GitHub actions](https://www.code4it.dev/blog/deploy-api-on-azure-with-github-action)
 - [C# Tip: use the @ prefix when a name is reserved](https://www.code4it.dev/csharptips/use-at-symbol-prefix)
 - [3 &lpar;and more&rpar; ways to set configuration values in .NET](https://www.code4it.dev/blog/how-to-set-configurations-values-dotnet)
 - [Clean Code Tip: DRY or not DRY?](https://www.code4it.dev/cleancodetips/dry-or-not-dry)
-- [The 2 secret endpoints I create in my .NET APIs](https://www.code4it.dev/blog/my-2-secret-endpoints)
 <!-- BLOG-POST-LIST:END -->
 
 
