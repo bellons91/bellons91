@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LINQ for beginners: pick the right methods!](https://www.code4it.dev/blog/linq-differences)
 - [How to customize Swagger UI with custom CSS in .NET 7](https://www.code4it.dev/blog/customize-swagger-ui-with-css)
 - [PriorityQueues on .NET 7 and C# 11](https://www.code4it.dev/blog/intro-priority-queue)
 - [C# Tip: Raise synchronous events using Timer &lpar;and not a While loop&rpar;](https://www.code4it.dev/csharptips/timer-to-trigger-synchronous-events)
 - [How to create an API Gateway using Azure API Management](https://www.code4it.dev/blog/intro-azure-api-management)
-- [Clean Code Tip: Methods should have a coherent level of abstraction](https://www.code4it.dev/cleancodetips/coherent-levels-of-abstraction)
 <!-- BLOG-POST-LIST:END -->
 
 
