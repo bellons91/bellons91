@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Server-side caching strategies: how do they work?](https://www.code4it.dev/architecture-notes/caching-strategies)
 - [C# Tip: LINQ&#39;s Enumerable.Range to generate a sequence of consecutive numbers](https://www.code4it.dev/csharptips/enumerable-range)
 - [LINQ for beginners: pick the right methods!](https://www.code4it.dev/blog/linq-differences)
 - [How to customize Swagger UI with custom CSS in .NET 7](https://www.code4it.dev/blog/customize-swagger-ui-with-css)
 - [PriorityQueues on .NET 7 and C# 11](https://www.code4it.dev/blog/intro-priority-queue)
-- [C# Tip: Raise synchronous events using Timer &lpar;and not a While loop&rpar;](https://www.code4it.dev/csharptips/timer-to-trigger-synchronous-events)
 <!-- BLOG-POST-LIST:END -->
 
 
