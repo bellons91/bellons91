@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: do NOT use nameof to give constants a value](https://www.code4it.dev/csharptips/do-not-use-nameof-for-constants)
 - [Davide&#39;s Code and Architecture Notes - Server-side caching strategies: how do they work?](https://www.code4it.dev/architecture-notes/caching-strategies)
 - [C# Tip: LINQ&#39;s Enumerable.Range to generate a sequence of consecutive numbers](https://www.code4it.dev/csharptips/enumerable-range)
 - [LINQ for beginners: pick the right methods!](https://www.code4it.dev/blog/linq-differences)
 - [How to customize Swagger UI with custom CSS in .NET 7](https://www.code4it.dev/blog/customize-swagger-ui-with-css)
-- [PriorityQueues on .NET 7 and C# 11](https://www.code4it.dev/blog/intro-priority-queue)
 <!-- BLOG-POST-LIST:END -->
 
 
