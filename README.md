@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: List Pattern to match an collection against a sequence of patterns](https://www.code4it.dev/csharptips/list-pattern)
 - [How to customize Conventional Commits in a .NET application using GitHooks](https://www.code4it.dev/blog/conventional-commit-with-githooks)
 - [C# Tip: do NOT use nameof to give constants a value](https://www.code4it.dev/csharptips/do-not-use-nameof-for-constants)
 - [Davide&#39;s Code and Architecture Notes - Server-side caching strategies: how do they work?](https://www.code4it.dev/architecture-notes/caching-strategies)
 - [C# Tip: LINQ&#39;s Enumerable.Range to generate a sequence of consecutive numbers](https://www.code4it.dev/csharptips/enumerable-range)
-- [LINQ for beginners: pick the right methods!](https://www.code4it.dev/blog/linq-differences)
 <!-- BLOG-POST-LIST:END -->
 
 
