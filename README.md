@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Health Checks in .NET: 2 ways to check communication with MongoDB](https://www.code4it.dev/blog/mongodb-healthcheck)
 - [C# Tip: Initialize lists size to improve performance](https://www.code4it.dev/csharptips/initialize-lists-size)
 - [Davide&#39;s Code and Architecture Notes - Understanding Elasticity and Scalability with Pokémon Go and TikTok](https://www.code4it.dev/architecture-notes/elasticity-vs-scalability)
 - [C# Tip: List Pattern to match an collection against a sequence of patterns](https://www.code4it.dev/csharptips/list-pattern)
 - [How to customize Conventional Commits in a .NET application using GitHooks](https://www.code4it.dev/blog/conventional-commit-with-githooks)
-- [C# Tip: do NOT use nameof to give constants a value](https://www.code4it.dev/csharptips/do-not-use-nameof-for-constants)
 <!-- BLOG-POST-LIST:END -->
 
 
