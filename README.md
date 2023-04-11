@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: Access items from the end of the array using the ^ operator](https://code4it.dev/csharptips/access-items-from-end-of-array/)
 - [Health Checks in .NET: 2 ways to check communication with MongoDB](https://code4it.dev/blog/mongodb-healthcheck/)
 - [C# Tip: Initialize lists size to improve performance](https://code4it.dev/csharptips/initialize-lists-size/)
 - [Davide&#39;s Code and Architecture Notes - Understanding Elasticity and Scalability with Pokémon Go and TikTok](https://code4it.dev/architecture-notes/elasticity-vs-scalability/)
 - [C# Tip: List Pattern to match an collection against a sequence of patterns](https://code4it.dev/csharptips/list-pattern/)
-- [How to customize Conventional Commits in a .NET application using GitHooks](https://code4it.dev/blog/conventional-commit-with-githooks/)
 <!-- BLOG-POST-LIST:END -->
 
 
