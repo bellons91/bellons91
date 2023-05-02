@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: Format Interpolated Strings](https://code4it.dev/csharptips/format-interpolated-strings/)
 - [Postel&#39;s law for API Robustness](https://code4it.dev/architecture-notes/postel-law-for-api-robustness/)
 - [C# Tip: Access items from the end of the array using the ^ operator](https://code4it.dev/csharptips/access-items-from-end-of-array/)
 - [Health Checks in .NET: 2 ways to check communication with MongoDB](https://code4it.dev/blog/mongodb-healthcheck/)
 - [C# Tip: Initialize lists size to improve performance](https://code4it.dev/csharptips/initialize-lists-size/)
-- [Davide&#39;s Code and Architecture Notes - Understanding Elasticity and Scalability with Pokémon Go and TikTok](https://code4it.dev/architecture-notes/elasticity-vs-scalability/)
 <!-- BLOG-POST-LIST:END -->
 
 
