@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding IOptions, IOptionsMonitor, and IOptionsSnapshot in .NET 7](https://code4it.dev/blog/ioptions-ioptionsmonitor-ioptionssnapshot/)
-- [C# Tip: Advanced Switch Expressions and Switch Statements using filters](https://code4it.dev/csharptips/switch-expressions-and-statements/)
-- [How to download an online file and store it on file system with C#](https://code4it.dev/blog/download-and-save-files/)
-- [C# Tip: Format Interpolated Strings](https://code4it.dev/csharptips/format-interpolated-strings/)
-- [Postel&#39;s law for API Robustness](https://code4it.dev/architecture-notes/postel-law-for-api-robustness/)
+- [Understanding IOptions, IOptionsMonitor, and IOptionsSnapshot in .NET 7](https://www.code4it.dev/blog/ioptions-ioptionsmonitor-ioptionssnapshot/)
+- [C# Tip: Advanced Switch Expressions and Switch Statements using filters](https://www.code4it.dev/csharptips/switch-expressions-and-statements/)
+- [How to download an online file and store it on file system with C#](https://www.code4it.dev/blog/download-and-save-files/)
+- [C# Tip: Format Interpolated Strings](https://www.code4it.dev/csharptips/format-interpolated-strings/)
+- [Postel&#39;s law for API Robustness](https://www.code4it.dev/architecture-notes/postel-law-for-api-robustness/)
 <!-- BLOG-POST-LIST:END -->
 
 
