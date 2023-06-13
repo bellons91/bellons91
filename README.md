@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: Use custom Equality comparers in Nunit tests](https://www.code4it.dev/csharptips/nunit-equals-custom-comparer/)
 - [How to add Dependency Injection, Configurations, and Logging in a .NET 7 Console Application](https://www.code4it.dev/blog/dependency-injection-config-logging-in-console-application/)
 - [Davide&#39;s Code and Architecture Notes - Testing Pyramid vs Testing Diamond &lpar;and how they affect Code Coverage&rpar;](https://www.code4it.dev/architecture-notes/testing-pyramid-vs-testing-diamond/)
 - [Understanding IOptions, IOptionsMonitor, and IOptionsSnapshot in .NET 7](https://www.code4it.dev/blog/ioptions-ioptionsmonitor-ioptionssnapshot/)
 - [C# Tip: Advanced Switch Expressions and Switch Statements using filters](https://www.code4it.dev/csharptips/switch-expressions-and-statements/)
-- [How to download an online file and store it on file system with C#](https://www.code4it.dev/blog/download-and-save-files/)
 <!-- BLOG-POST-LIST:END -->
 
 
