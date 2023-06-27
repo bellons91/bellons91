@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - L4 vs L7 Load Balancer](https://www.code4it.dev/architecture-notes/l4-vs-l7-load-balancers/)
 - [Azure App Configuration and .NET API: a smart and secure way to manage configurations](https://www.code4it.dev/blog/azure-app-configuration-dotnet-api/)
 - [C# Tip: Use custom Equality comparers in Nunit tests](https://www.code4it.dev/csharptips/nunit-equals-custom-comparer/)
 - [How to add Dependency Injection, Configurations, and Logging in a .NET 7 Console Application](https://www.code4it.dev/blog/dependency-injection-config-logging-in-console-application/)
 - [Davide&#39;s Code and Architecture Notes - Testing Pyramid vs Testing Diamond &lpar;and how they affect Code Coverage&rpar;](https://www.code4it.dev/architecture-notes/testing-pyramid-vs-testing-diamond/)
-- [Understanding IOptions, IOptionsMonitor, and IOptionsSnapshot in .NET 7](https://www.code4it.dev/blog/ioptions-ioptionsmonitor-ioptionssnapshot/)
 <!-- BLOG-POST-LIST:END -->
 
 
