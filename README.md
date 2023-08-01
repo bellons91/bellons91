@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit](https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/)
 - [C# Tip: 2 ways to define ASP.NET Core custom Middleware](https://www.code4it.dev/csharptips/custom-middleware/)
 - [How to automatically refresh configurations with Azure App Configuration in .NET](https://www.code4it.dev/blog/azure-app-configuration-refresh-config/)
 - [Davide&#39;s Code and Architecture Notes - L4 vs L7 Load Balancer](https://www.code4it.dev/architecture-notes/l4-vs-l7-load-balancers/)
 - [Azure App Configuration and .NET API: a smart and secure way to manage configurations](https://www.code4it.dev/blog/azure-app-configuration-dotnet-api/)
-- [C# Tip: Use custom Equality comparers in Nunit tests](https://www.code4it.dev/csharptips/nunit-equals-custom-comparer/)
 <!-- BLOG-POST-LIST:END -->
 
 
