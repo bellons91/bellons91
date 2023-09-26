@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: Improve memory allocation by initializing collection size](https://www.code4it.dev/csharptips/initialize-collection-size/)
 - [Feature Flags 101: A Guide for .NET Developers](https://www.code4it.dev/blog/feature-flags-dotnet/)
 - [Davide&#39;s Code and Architecture Notes - CAP Theorem: it&#39;s not just «Pick two»](https://www.code4it.dev/architecture-notes/cap-theorem/)
 - [Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit](https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/)
 - [C# Tip: 2 ways to define ASP.NET Core custom Middleware](https://www.code4it.dev/csharptips/custom-middleware/)
-- [How to automatically refresh configurations with Azure App Configuration in .NET](https://www.code4it.dev/blog/azure-app-configuration-refresh-config/)
 <!-- BLOG-POST-LIST:END -->
 
 
