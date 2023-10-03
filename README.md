@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to integrate Feature Flags stored on Azure App Configuration in an ASP.NET Core Application](https://www.code4it.dev/blog/feature-flags-from-azure-app-configuration/)
 - [C# Tip: Improve memory allocation by initializing collection size](https://www.code4it.dev/csharptips/initialize-collection-size/)
-- [Feature Flags 101: A Guide for .NET Developers](https://www.code4it.dev/blog/feature-flags-dotnet/)
+- [Feature Flags 101: A Guide for ASP.NET Core Developers](https://www.code4it.dev/blog/feature-flags-dotnet/)
 - [Davide&#39;s Code and Architecture Notes - CAP Theorem: it&#39;s not just «Pick two»](https://www.code4it.dev/architecture-notes/cap-theorem/)
 - [Advanced Integration Tests for .NET 7 API with WebApplicationFactory and NUnit](https://www.code4it.dev/blog/advanced-integration-tests-webapplicationfactory/)
-- [C# Tip: 2 ways to define ASP.NET Core custom Middleware](https://www.code4it.dev/csharptips/custom-middleware/)
 <!-- BLOG-POST-LIST:END -->
 
 
