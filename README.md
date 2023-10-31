@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OhMyPosh and CascadiaCode not working on PowerShell? How to fix it in Windows 10 and Windows 11 Integrated Terminal](https://www.code4it.dev/blog/ohmyposh-integrated-terminal-powershell/)
 - [C# Tip: How to create Unit Tests for Model Validation](https://www.code4it.dev/csharptips/unit-test-model-validation/)
 - [Pre-commit hooks with Husky.NET - build, format, and test your .NET application before a Git commit](https://www.code4it.dev/blog/husky-dotnet-precommit-hooks/)
 - [Davide&#39;s Code and Architecture Notes - Pros and Cons of API Gateways &lpar;with vendors comparison&rpar;](https://www.code4it.dev/architecture-notes/api-gateway-pros-and-cons/)
 - [How to integrate Feature Flags stored on Azure App Configuration in an ASP.NET Core Application](https://www.code4it.dev/blog/feature-flags-from-azure-app-configuration/)
-- [C# Tip: Improve memory allocation by initializing collection size](https://www.code4it.dev/csharptips/initialize-collection-size/)
 <!-- BLOG-POST-LIST:END -->
 
 
