@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to extract, create, and navigate Zip Files in C#](https://www.code4it.dev/blog/working-with-zip-files/)
 - [Davide&#39;s Code and Architecture Notes - 4 algorithms to implement Rate Limiting, with comparison](https://www.code4it.dev/architecture-notes/rate-limiting-algorithms/)
 - [OhMyPosh and CascadiaCode not working on PowerShell? How to fix it in Windows 10 and Windows 11 Integrated Terminal](https://www.code4it.dev/blog/ohmyposh-integrated-terminal-powershell/)
 - [C# Tip: How to create Unit Tests for Model Validation](https://www.code4it.dev/csharptips/unit-test-model-validation/)
 - [Pre-commit hooks with Husky.NET - build, format, and test your .NET application before a Git commit](https://www.code4it.dev/blog/husky-dotnet-precommit-hooks/)
-- [Davide&#39;s Code and Architecture Notes - Pros and Cons of API Gateways &lpar;with vendors comparison&rpar;](https://www.code4it.dev/architecture-notes/api-gateway-pros-and-cons/)
 <!-- BLOG-POST-LIST:END -->
 
 
