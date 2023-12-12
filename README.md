@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [4 ways to create Unit Tests without Interfaces in C#](https://www.code4it.dev/blog/unit-tests-without-interfaces/)
 - [C# Tip: Use TestCase to run similar unit tests with NUnit](https://www.code4it.dev/csharptips/nunit-testcase/)
 - [How to extract, create, and navigate Zip Files in C#](https://www.code4it.dev/blog/working-with-zip-files/)
 - [Davide&#39;s Code and Architecture Notes - 4 algorithms to implement Rate Limiting, with comparison](https://www.code4it.dev/architecture-notes/rate-limiting-algorithms/)
 - [OhMyPosh and CascadiaCode not working on PowerShell? How to fix it in Windows 10 and Windows 11 Integrated Terminal](https://www.code4it.dev/blog/ohmyposh-integrated-terminal-powershell/)
-- [C# Tip: How to create Unit Tests for Model Validation](https://www.code4it.dev/csharptips/unit-test-model-validation/)
 <!-- BLOG-POST-LIST:END -->
 
 
