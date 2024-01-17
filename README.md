@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to kill a process running on a local port in Windows](https://www.code4it.dev/blog/kill-the-process-blocking-a-port-windows/)
 - [Davide&#39;s Code and Architecture Notes - Tracking decision with Architecture Decision Records &lpar;ADRs&rpar;](https://www.code4it.dev/architecture-notes/architecture-decision-records/)
 - [Top 6 Performance Tips when dealing with strings in C# 12 and .NET 8](https://www.code4it.dev/blog/top-6-string-performance-tips/)
 - [4 ways to create Unit Tests without Interfaces in C#](https://www.code4it.dev/blog/unit-tests-without-interfaces/)
 - [C# Tip: Use TestCase to run similar unit tests with NUnit](https://www.code4it.dev/csharptips/nunit-testcase/)
-- [How to extract, create, and navigate Zip Files in C#](https://www.code4it.dev/blog/working-with-zip-files/)
 <!-- BLOG-POST-LIST:END -->
 
 
