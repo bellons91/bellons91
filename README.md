@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: ObservableCollection - a data type to intercept changes to the collection](https://www.code4it.dev/csharptips/observablecollection/)
 - [How to kill a process running on a local port in Windows](https://www.code4it.dev/blog/kill-the-process-blocking-a-port-windows/)
 - [Davide&#39;s Code and Architecture Notes - Tracking decision with Architecture Decision Records &lpar;ADRs&rpar;](https://www.code4it.dev/architecture-notes/architecture-decision-records/)
 - [Top 6 Performance Tips when dealing with strings in C# 12 and .NET 8](https://www.code4it.dev/blog/top-6-string-performance-tips/)
 - [4 ways to create Unit Tests without Interfaces in C#](https://www.code4it.dev/blog/unit-tests-without-interfaces/)
-- [C# Tip: Use TestCase to run similar unit tests with NUnit](https://www.code4it.dev/csharptips/nunit-testcase/)
 <!-- BLOG-POST-LIST:END -->
 
 
