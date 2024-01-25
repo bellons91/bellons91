@@ -28,7 +28,7 @@ and, of course...
 - [C# Tip: ObservableCollection - a data type to intercept changes to the collection](https://www.code4it.dev/csharptips/observablecollection/)
 - [How to kill a process running on a local port in Windows](https://www.code4it.dev/blog/kill-the-process-blocking-a-port-windows/)
 - [Davide&#39;s Code and Architecture Notes - Tracking decision with Architecture Decision Records &lpar;ADRs&rpar;](https://www.code4it.dev/architecture-notes/architecture-decision-records/)
-- [[ENG] MVPbuzzChat with Davide Bellone | Christian Buckley](https://www.code4it.dev/video/LzJaAa_HXKU/)
+- [[ENG] MVPbuzzChat with Davide Bellone | Christian Buckley](https://www.code4it.dev/video/mvp-buzz-chat/)
 - [Top 6 Performance Tips when dealing with strings in C# 12 and .NET 8](https://www.code4it.dev/blog/top-6-string-performance-tips/)
 <!-- BLOG-POST-LIST:END -->
 
