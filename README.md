@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Cache Expiration vs Cache Eviction &lpar;and Eviction Policies&rpar;](https://www.code4it.dev/architecture-notes/cache-expiration-and-eviction/)
 - [How to create custom snippets in Visual Studio 2022](https://www.code4it.dev/blog/custom-snippets-visualstudio2022/)
 - [C# Tip: ObservableCollection - a data type to intercept changes to the collection](https://www.code4it.dev/csharptips/observablecollection/)
 - [How to kill a process running on a local port in Windows](https://www.code4it.dev/blog/kill-the-process-blocking-a-port-windows/)
 - [Davide&#39;s Code and Architecture Notes - Tracking decision with Architecture Decision Records &lpar;ADRs&rpar;](https://www.code4it.dev/architecture-notes/architecture-decision-records/)
-- [[ENG] MVPbuzzChat with Davide Bellone | Christian Buckley](https://www.code4it.dev/video/mvp-buzz-chat/)
 <!-- BLOG-POST-LIST:END -->
 
 
