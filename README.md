@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: IFormattable interface, to define different string formats for the same object](https://www.code4it.dev/csharptips/iformattable-interface/)
 - [[ENG] Improving Your Code Coverage | Microsoft Visual Studio YouTube channel](https://www.code4it.dev/video/code-coverage-visualstudio-toolbox/)
 - [Is Random.GetItems the best way to get random items in C# 12?](https://www.code4it.dev/blog/how-to-get-random-items/)
 - [Davide&#39;s Code and Architecture Notes - Cache Expiration vs Cache Eviction &lpar;and Eviction Policies&rpar;](https://www.code4it.dev/architecture-notes/cache-expiration-and-eviction/)
 - [How to create custom snippets in Visual Studio 2022](https://www.code4it.dev/blog/custom-snippets-visualstudio2022/)
-- [C# Tip: ObservableCollection - a data type to intercept changes to the collection](https://www.code4it.dev/csharptips/observablecollection/)
 <!-- BLOG-POST-LIST:END -->
 
 
