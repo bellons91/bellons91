@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Introducing SLI, SLO, and SLA](https://www.code4it.dev/architecture-notes/sli-vs-slo-vs-sla/)
 - [Why reaching 100% Code Coverage must NOT be your testing goal &lpar;with examples in C#&rpar;](https://www.code4it.dev/blog/code-coverage-must-not-be-the-target/)
 - [C# Tip: IFormattable interface, to define different string formats for the same object](https://www.code4it.dev/csharptips/iformattable-interface/)
 - [[ENG] Improving Your Code Coverage | Microsoft Visual Studio YouTube channel](https://www.code4it.dev/video/code-coverage-visualstudio-toolbox/)
 - [Is Random.GetItems the best way to get random items in C# 12?](https://www.code4it.dev/blog/how-to-get-random-items/)
-- [Davide&#39;s Code and Architecture Notes - Cache Expiration vs Cache Eviction &lpar;and Eviction Policies&rpar;](https://www.code4it.dev/architecture-notes/cache-expiration-and-eviction/)
 <!-- BLOG-POST-LIST:END -->
 
 
