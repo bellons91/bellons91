@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting started with Load testing with K6 on Windows 11](https://www.code4it.dev/blog/k6-load-testing/)
 - [Davide&#39;s Code and Architecture Notes - Introducing SLI, SLO, and SLA](https://www.code4it.dev/architecture-notes/sli-vs-slo-vs-sla/)
 - [Why reaching 100% Code Coverage must NOT be your testing goal &lpar;with examples in C#&rpar;](https://www.code4it.dev/blog/code-coverage-must-not-be-the-target/)
 - [C# Tip: IFormattable interface, to define different string formats for the same object](https://www.code4it.dev/csharptips/iformattable-interface/)
 - [[ENG] Improving Your Code Coverage | Microsoft Visual Studio YouTube channel](https://www.code4it.dev/video/code-coverage-visualstudio-toolbox/)
-- [Is Random.GetItems the best way to get random items in C# 12?](https://www.code4it.dev/blog/how-to-get-random-items/)
 <!-- BLOG-POST-LIST:END -->
 
 
