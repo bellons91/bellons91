@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Seeding in-memory Entity Framework with realistic data with Bogus](https://www.code4it.dev/blog/seed-inmemory-entityframework-bogus/)
 - [Davide&#39;s Code and Architecture Notes - Arc42 Documentation, for a comprehensive description of your project](https://www.code4it.dev/architecture-notes/arc42-documentation/)
 - [C# Tip: Path.Combine and Path.Join are similar but way different.](https://www.code4it.dev/csharptips/path-combine-vs-path-join/)
 - [Getting started with Load testing with K6 on Windows 11](https://www.code4it.dev/blog/k6-load-testing/)
 - [Davide&#39;s Code and Architecture Notes - Introducing SLI, SLO, and SLA](https://www.code4it.dev/architecture-notes/sli-vs-slo-vs-sla/)
-- [Why reaching 100% Code Coverage must NOT be your testing goal &lpar;with examples in C#&rpar;](https://www.code4it.dev/blog/code-coverage-must-not-be-the-target/)
 <!-- BLOG-POST-LIST:END -->
 
 
