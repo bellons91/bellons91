@@ -25,7 +25,7 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Davide&#39;s Code and Architecture Notes - Web APIs vs REST APIs vs RESTful APIs](https://www.code4it.dev/architecture-notes/webapi-vs-rest-vs-restful/)
+- [Davide&#39;s Code and Architecture Notes - Web APIs vs REST APIs vs pseudo-REST APIs](https://www.code4it.dev/architecture-notes/webapi-vs-rest-vs-pseudo-rest/)
 - [C# Tip: Mark a class as Sealed to prevent subclasses creation](https://www.code4it.dev/csharptips/sealed-classes/)
 - [Seeding in-memory Entity Framework with realistic data with Bogus](https://www.code4it.dev/blog/seed-inmemory-entityframework-bogus/)
 - [Davide&#39;s Code and Architecture Notes - Arc42 Documentation, for a comprehensive description of your project](https://www.code4it.dev/architecture-notes/arc42-documentation/)
