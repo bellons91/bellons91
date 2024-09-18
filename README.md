@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Practical creation of C4 Model diagrams with Structurizr](https://www.code4it.dev/architecture-notes/c4-model-diagrams/)
 - [C# Tip: 2 ways to use custom equality rules in a HashSet](https://www.code4it.dev/csharptips/hashset-custom-equality/)
 - [Postman&#39;s pre-request scripts: how to perform HTTP POST requests &lpar;with JSON body&rpar; and how to set Cookie authentication.](https://www.code4it.dev/blog/postman-prerequest-script-cookie-auth/)
 - [Davide&#39;s Code and Architecture Notes - Web APIs vs REST APIs vs pseudo-REST APIs](https://www.code4it.dev/architecture-notes/webapi-vs-rest-vs-pseudo-rest/)
 - [C# Tip: Mark a class as Sealed to prevent subclasses creation](https://www.code4it.dev/csharptips/sealed-classes/)
-- [Seeding in-memory Entity Framework with realistic data with Bogus](https://www.code4it.dev/blog/seed-inmemory-entityframework-bogus/)
 <!-- BLOG-POST-LIST:END -->
 
 
