@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - the Error Management Trio, and how it affects your software architecture](https://www.code4it.dev/architecture-notes/error-management-trio/)
 - [C# Tip: IEnumerable vs ICollection, and why it matters](https://www.code4it.dev/csharptips/ienumerable-vs-icollection/)
 - [How to use IHttpClientFactory and WireMock.NET together using Moq](https://www.code4it.dev/blog/wiremock-ihttpclientfactory-moq/)
 - [Davide&#39;s Code and Architecture Notes - Practical creation of C4 Model diagrams with Structurizr](https://www.code4it.dev/architecture-notes/c4-model-diagrams/)
 - [C# Tip: 2 ways to use custom equality rules in a HashSet](https://www.code4it.dev/csharptips/hashset-custom-equality/)
-- [Postman&#39;s pre-request scripts: how to perform HTTP POST requests &lpar;with JSON body&rpar; and how to set Cookie authentication.](https://www.code4it.dev/blog/postman-prerequest-script-cookie-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 
