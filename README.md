@@ -8,8 +8,8 @@ My story, in short:
 * Backend developer, focused on SharePoint (2014 -> 2016)
 * Fullstack developer, taking care of everything: SQL, UI, and everything in between (2017)
 * Fullstack developer/mentor: Angular + .NET API (2017->2019)
-* Backend developer (2019 -> today)
-* Backend dev/Architect (in the future - I hope 😉)
+* Senior Backend developer (2019 -> 2024)
+* Principal Backend Developer (today) 
 
 ## Where to spot a Davide in the wild 🦏
 
