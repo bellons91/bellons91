@@ -25,11 +25,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: How to create Custom Attributes, and why they are useful](https://www.code4it.dev/csharptips/create-custom-csharp-attributes/)
 - [HTTP Logging in ASP.NET: how to automatically log all incoming HTTP requests &lpar;and its downsides!&rpar;](https://www.code4it.dev/blog/httplogging-asp-net/)
 - [Fitness Functions in Software Architecture: measuring things to ensure prosperity](https://www.code4it.dev/architecture-notes/fitness-functions/)
 - [C# Tip: 2 ways to generate realistic data using Bogus](https://www.code4it.dev/csharptips/bogus-data-generation/)
 - [Easy logging management with Seq and ILogger in ASP.NET](https://www.code4it.dev/blog/logging-with-ilogger-and-seq/)
-- [Davide&#39;s Code and Architecture Notes - the Error Management Trio, and how it affects your software architecture](https://www.code4it.dev/architecture-notes/error-management-trio/)
 <!-- BLOG-POST-LIST:END -->
 
 
