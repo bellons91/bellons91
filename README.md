@@ -1,4 +1,4 @@
-![Profile banner](./DavideBellone.png)
+![Profile banner](https://www.code4it.dev/img/personal-cover-image.png)
 
 Hey there, I'm Davide, a backend developer from Italy 🤏 
 
@@ -13,13 +13,14 @@ My story, in short:
 
 ## Where to spot a Davide in the wild 🦏
 
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/BelloneDavide?label=Let%27s%20get%20in%20touch%20on%20Twitter&style=social)](https://twitter.com/BelloneDavide)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin)](https://www.linkedin.com/in/bellonedavide/)
 
 and, of course...
 
-[![Personal blog](./logo_small.png) My blog: Code4it.dev](https://www.code4it.dev/)
+[My blog: Code4it.dev](https://www.code4it.dev/)
 
 
 ## My latest blog posts
