@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: An In-Depth Look at CallerMemberName &lpar;and some Compile-Time trivia&rpar;](https://www.code4it.dev/csharptips/callermembername-attribute/)
 - [How to log to Azure Application Insights using ILogger in ASP.NET Core](https://www.code4it.dev/blog/azure-application-insights-ilogger-aspnetcore/)
 - [D2: like Mermaid, but better. Syntax, installation, and practical usage tips](https://www.code4it.dev/architecture-notes/d2-diagrams/)
 - [C# Tip: How to create Custom Attributes, and why they are useful](https://www.code4it.dev/csharptips/create-custom-csharp-attributes/)
 - [HTTP Logging in ASP.NET: how to automatically log all incoming HTTP requests &lpar;and its downsides!&rpar;](https://www.code4it.dev/blog/httplogging-asp-net/)
-- [Fitness Functions in Software Architecture: measuring things to ensure prosperity](https://www.code4it.dev/architecture-notes/fitness-functions/)
 <!-- BLOG-POST-LIST:END -->
 
 
