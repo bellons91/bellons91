@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Software Architecture vs Software Design](https://www.code4it.dev/architecture-notes/software-architecture-vs-software-design/)
 - [C# Tip: Handling exceptions with Task.WaitAll and Task.WhenAll](https://www.code4it.dev/csharptips/task-whenall-vs-task-waitall-error-handling/)
 - [How to run SonarQube analysis locally with Docker](https://www.code4it.dev/blog/sonarqube-local-with-docker/)
 - [Harnessing the Power of Jitter: Enhancing Retry Patterns with a bit of randomness](https://www.code4it.dev/architecture-notes/retry-patterns-jitter/)
 - [C# Tip: An In-Depth Look at CallerMemberName &lpar;and some Compile-Time trivia&rpar;](https://www.code4it.dev/csharptips/callermembername-attribute/)
-- [How to log to Azure Application Insights using ILogger in ASP.NET Core](https://www.code4it.dev/blog/azure-application-insights-ilogger-aspnetcore/)
 <!-- BLOG-POST-LIST:END -->
 
 
