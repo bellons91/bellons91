@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: injecting and testing the current time with TimeProvider and FakeTimeProvider](https://www.code4it.dev/csharptips/timeprovider-faketimeprovider/)
 - [Build your own Static Code Analysis tool in .NET by knowing how Assembly, Type, MethodInfo, ParameterInfo work.](https://www.code4it.dev/blog/assembly-type-methodinfo-parameterinfo/)
 - [Davide&#39;s Code and Architecture Notes - Software Architecture vs Software Design](https://www.code4it.dev/architecture-notes/software-architecture-vs-software-design/)
 - [C# Tip: Handling exceptions with Task.WaitAll and Task.WhenAll](https://www.code4it.dev/csharptips/task-whenall-vs-task-waitall-error-handling/)
 - [How to run SonarQube analysis locally with Docker](https://www.code4it.dev/blog/sonarqube-local-with-docker/)
-- [Harnessing the Power of Jitter: Enhancing Retry Patterns with a bit of randomness](https://www.code4it.dev/architecture-notes/retry-patterns-jitter/)
 <!-- BLOG-POST-LIST:END -->
 
 
