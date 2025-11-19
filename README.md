@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Davide&#39;s Code and Architecture Notes - Metrics, Logs, and Traces: the three pillars of Observability](https://www.code4it.dev/architecture-notes/metrics-logs-traces/)
 - [Things I learned after speaking at my first Big International Conference](https://www.code4it.dev/blog/after-first-big-tech-conference/)
 - [Introducing the Testing Vial: a &lpar;better?&rpar; alternative to Testing Diamond and Testing Pyramid](https://www.code4it.dev/blog/testing-vial/)
 - [C# Tip: injecting and testing the current time with TimeProvider and FakeTimeProvider](https://www.code4it.dev/csharptips/timeprovider-faketimeprovider/)
 - [Build your own Static Code Analysis tool in .NET by knowing how Assembly, Type, MethodInfo, ParameterInfo work.](https://www.code4it.dev/blog/assembly-type-methodinfo-parameterinfo/)
-- [Davide&#39;s Code and Architecture Notes - Software Architecture vs Software Design](https://www.code4it.dev/architecture-notes/software-architecture-vs-software-design/)
 <!-- BLOG-POST-LIST:END -->
 
 
