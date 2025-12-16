@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[C# Tip] How to create and access custom C# Attributes by using Reflection](https://www.code4it.dev/csharptips/custom-csharp-attributes-reflection/)
 - [Davide&#39;s Code and Architecture Notes - Metrics, Logs, and Traces: the three pillars of Observability](https://www.code4it.dev/architecture-notes/metrics-logs-traces/)
 - [Things I learned after speaking at my first Big International Conference](https://www.code4it.dev/blog/after-first-big-tech-conference/)
 - [Introducing the Testing Vial: a &lpar;better?&rpar; alternative to Testing Diamond and Testing Pyramid](https://www.code4it.dev/blog/testing-vial/)
 - [C# Tip: injecting and testing the current time with TimeProvider and FakeTimeProvider](https://www.code4it.dev/csharptips/timeprovider-faketimeprovider/)
-- [Build your own Static Code Analysis tool in .NET by knowing how Assembly, Type, MethodInfo, ParameterInfo work.](https://www.code4it.dev/blog/assembly-type-methodinfo-parameterinfo/)
 <!-- BLOG-POST-LIST:END -->
 
 
