@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Readonly vs Immutable vs Frozen in C#: differences and &lpar;a lot of&rpar; benchmarks](https://www.code4it.dev/blog/readonly-vs-immutable-vs-frozen/)
 - [Code opinion: why I prefer avoiding the Async suffix in C# asynchronous methods](https://www.code4it.dev/blog/code-opinion-async-suffix/)
 - [[C# Tip] How to create and access custom C# Attributes by using Reflection](https://www.code4it.dev/csharptips/custom-csharp-attributes-reflection/)
 - [Davide&#39;s Code and Architecture Notes - Metrics, Logs, and Traces: the three pillars of Observability](https://www.code4it.dev/architecture-notes/metrics-logs-traces/)
 - [Things I learned after speaking at my first Big International Conference](https://www.code4it.dev/blog/after-first-big-tech-conference/)
-- [Introducing the Testing Vial: a &lpar;better?&rpar; alternative to Testing Diamond and Testing Pyramid](https://www.code4it.dev/blog/testing-vial/)
 <!-- BLOG-POST-LIST:END -->
 
 
