@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: How to JSON Serialize and Deserialize values as DateTime, DateTimeOffset, DateOnly and TimeOnly](https://www.code4it.dev/csharptips/json-serialize-deserialize-dates/)
 - [Python for .NET devs: Introduction, virtual environments, package management, and execution lifecycle](https://www.code4it.dev/python-for-dotnet-developers/intro-to-python/)
 - [Readonly vs Immutable vs Frozen in C#: differences and &lpar;a lot of&rpar; benchmarks](https://www.code4it.dev/blog/readonly-vs-immutable-vs-frozen/)
 - [Code opinion: why I prefer avoiding the Async suffix in C# asynchronous methods](https://www.code4it.dev/blog/code-opinion-async-suffix/)
 - [[C# Tip] How to create and access custom C# Attributes by using Reflection](https://www.code4it.dev/csharptips/custom-csharp-attributes-reflection/)
-- [Davide&#39;s Code and Architecture Notes - Metrics, Logs, and Traces: the three pillars of Observability](https://www.code4it.dev/architecture-notes/metrics-logs-traces/)
 <!-- BLOG-POST-LIST:END -->
 
 
