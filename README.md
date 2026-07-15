@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [C# Tip: Use required members to prevent invalid object initialization &lpar;beware of SetsRequiredMembers attribute!&rpar;](https://www.code4it.dev/csharptips/required-members-and-setrequiredmembers-attribute/)
 - [Microsoft Agent Framework for .NET &lpar;part 1&rpar;: what it is, how it works, and when to use it](https://www.code4it.dev/blog/introduction-microsoft-agent-framework-dotnet/)
 - [No more regressions with Snapshot Tests in C# using Verify: a practical guide](https://www.code4it.dev/blog/snapshot-tests-with-verify/)
 - [Python for .NET devs: data types, classes, objects, records and interfaces](https://www.code4it.dev/python-for-dotnet-developers/data-types-classes-objects-records-interfaces/)
 - [How to send Slack messages using Azure Logic Apps: built-in connector vs Slack APIs](https://www.code4it.dev/blog/send-slack-messages-using-azure-logic-apps/)
-- [C# Tip: How to JSON Serialize and Deserialize values as DateTime, DateTimeOffset, DateOnly and TimeOnly](https://www.code4it.dev/csharptips/json-serialize-deserialize-dates/)
 <!-- BLOG-POST-LIST:END -->
 
 
