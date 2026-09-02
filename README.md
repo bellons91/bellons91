@@ -26,11 +26,11 @@ and, of course...
 ## My latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Agent Framework for .NET &lpar;part 3&rpar;: Custom Agents, for building a chat with custom instructions](https://www.code4it.dev/blog/maf-first-agent-custom-instructions/)
 - [Microsoft Agent Framework for .NET &lpar;part 2&rpar;: How to use IChatClient with Azure Foundry and Ollama in .NET](https://www.code4it.dev/blog/maf-ichatclient-azure-foundry-ollama/)
 - [C# Tip: Use required members to prevent invalid object initialization &lpar;beware of SetsRequiredMembers attribute!&rpar;](https://www.code4it.dev/csharptips/required-members-and-setrequiredmembers-attribute/)
 - [Microsoft Agent Framework for .NET &lpar;part 1&rpar;: what it is, how it works, and when to use it](https://www.code4it.dev/blog/introduction-microsoft-agent-framework-dotnet/)
 - [No more regressions with Snapshot Tests in C# using Verify: a practical guide](https://www.code4it.dev/blog/snapshot-tests-with-verify/)
-- [Python for .NET devs: data types, classes, objects, records and interfaces](https://www.code4it.dev/python-for-dotnet-developers/data-types-classes-objects-records-interfaces/)
 <!-- BLOG-POST-LIST:END -->
 
 
